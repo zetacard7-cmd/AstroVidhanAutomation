@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-06-23T17:54:15 IST" name="Default suite" finished-at="2026-06-23T17:54:27 IST" duration-ms="12227">
+    <groups>
+    </groups>
+    <test started-at="2026-06-23T17:54:15 IST" name="Default test" finished-at="2026-06-23T17:54:27 IST" duration-ms="12227">
+      <class name="tests.TestTextBox">
+        <test-method is-config="true" signature="launchURL()[pri:0, instance:tests.TestTextBox@498d318c]" started-at="2026-06-23T17:54:15 IST" name="launchURL" finished-at="2026-06-23T17:54:20 IST" duration-ms="4907" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+        <test-method signature="testClickOnClose()[pri:1, instance:tests.TestTextBox@498d318c]" started-at="2026-06-23T17:54:20 IST" name="testClickOnClose" finished-at="2026-06-23T17:54:20 IST" duration-ms="263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClickOnClose -->
+        <test-method is-config="true" signature="resultAnalysis(org.testng.ITestResult)[pri:0, instance:tests.TestTextBox@498d318c]" started-at="2026-06-23T17:54:20 IST" name="resultAnalysis" finished-at="2026-06-23T17:54:21 IST" duration-ms="380" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testClickOnClose status=SUCCESS method=TestTextBox.testClickOnClose()[pri:1, instance:tests.TestTextBox@498d318c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resultAnalysis -->
+        <test-method signature="testclickOnPractice()[pri:2, instance:tests.TestTextBox@498d318c]" started-at="2026-06-23T17:54:21 IST" name="testclickOnPractice" finished-at="2026-06-23T17:54:24 IST" duration-ms="2834" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testclickOnPractice -->
+        <test-method is-config="true" signature="resultAnalysis(org.testng.ITestResult)[pri:0, instance:tests.TestTextBox@498d318c]" started-at="2026-06-23T17:54:24 IST" name="resultAnalysis" finished-at="2026-06-23T17:54:24 IST" duration-ms="124" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testclickOnPractice status=SUCCESS method=TestTextBox.testclickOnPractice()[pri:2, instance:tests.TestTextBox@498d318c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resultAnalysis -->
+        <test-method signature="testclickOnElement()[pri:3, instance:tests.TestTextBox@498d318c]" started-at="2026-06-23T17:54:24 IST" name="testclickOnElement" finished-at="2026-06-23T17:54:24 IST" duration-ms="160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testclickOnElement -->
+        <test-method is-config="true" signature="resultAnalysis(org.testng.ITestResult)[pri:0, instance:tests.TestTextBox@498d318c]" started-at="2026-06-23T17:54:24 IST" name="resultAnalysis" finished-at="2026-06-23T17:54:24 IST" duration-ms="156" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testclickOnElement status=SUCCESS method=TestTextBox.testclickOnElement()[pri:3, instance:tests.TestTextBox@498d318c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resultAnalysis -->
+        <test-method signature="testclickOnTextBox()[pri:4, instance:tests.TestTextBox@498d318c]" started-at="2026-06-23T17:54:24 IST" name="testclickOnTextBox" finished-at="2026-06-23T17:54:24 IST" duration-ms="127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testclickOnTextBox -->
+        <test-method is-config="true" signature="resultAnalysis(org.testng.ITestResult)[pri:0, instance:tests.TestTextBox@498d318c]" started-at="2026-06-23T17:54:24 IST" name="resultAnalysis" finished-at="2026-06-23T17:54:24 IST" duration-ms="160" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testclickOnTextBox status=SUCCESS method=TestTextBox.testclickOnTextBox()[pri:4, instance:tests.TestTextBox@498d318c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resultAnalysis -->
+        <test-method signature="testfillDetails()[pri:5, instance:tests.TestTextBox@498d318c]" started-at="2026-06-23T17:54:24 IST" name="testfillDetails" finished-at="2026-06-23T17:54:27 IST" duration-ms="2143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testfillDetails -->
+        <test-method is-config="true" signature="resultAnalysis(org.testng.ITestResult)[pri:0, instance:tests.TestTextBox@498d318c]" started-at="2026-06-23T17:54:27 IST" name="resultAnalysis" finished-at="2026-06-23T17:54:27 IST" duration-ms="164" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testfillDetails status=SUCCESS method=TestTextBox.testfillDetails()[pri:5, instance:tests.TestTextBox@498d318c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resultAnalysis -->
+        <test-method signature="testValidate()[pri:6, instance:tests.TestTextBox@498d318c]" started-at="2026-06-23T17:54:27 IST" name="testValidate" finished-at="2026-06-23T17:54:27 IST" duration-ms="594" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValidate -->
+        <test-method is-config="true" signature="resultAnalysis(org.testng.ITestResult)[pri:0, instance:tests.TestTextBox@498d318c]" started-at="2026-06-23T17:54:27 IST" name="resultAnalysis" finished-at="2026-06-23T17:54:27 IST" duration-ms="113" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testValidate status=SUCCESS method=TestTextBox.testValidate()[pri:6, instance:tests.TestTextBox@498d318c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resultAnalysis -->
+      </class> <!-- tests.TestTextBox -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

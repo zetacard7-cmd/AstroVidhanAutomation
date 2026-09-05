@@ -1,0 +1,45 @@
+
+<suite name="Suite">
+  <test name="LoginTest" enabled = "false">
+    <classes>
+      <class name="tests.LoginTest"/>
+    </classes>
+  </test> <!-- Test -->
+
+ <test name="TextBoxTest" enabled = "false">
+    <classes>
+      <class name="tests.TestTextBox"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test name="CheckBoxTest" enabled = "false">
+    <classes>
+      <class name="tests.TestCheckBox"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test name="RadioButtonPage" enabled = "false">
+    <classes>
+      <class name="tests.TestRadioButtonPage"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test name="WebTablesPages" enabled = "false">
+    <classes>
+      <class name="tests.TestWebTablePages"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test name="ButtonsPages" enabled = "false">
+    <classes>
+      <class name="tests.TestButtonPages"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test name="LinksPage" enabled = "true">
+    <classes>
+      <class name="tests.TestLinksPage"/>
+    </classes>
+  </test> <!-- Test -->
+  </suite> <!-- Suite -->
+
